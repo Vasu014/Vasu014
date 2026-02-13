@@ -56,6 +56,19 @@ I believe the best developer tools are the ones that disappear. Code indexers th
 
 ---
 
+### Background
+
+**CTO — Entitled Solutions** &nbsp; *(current)*
+> Building financial & insurance products for blue-collar workers in a B2B2C model. Own the full stack — architecture, frontend, backend, DevOps, and AI agent workflows.
+
+**Founding Engineer — AI Meeting Assistant Startup**
+> Built an AI meeting assistant in the pre-LLM era (think Fireflies.ai, but powered by LSTMs). Shipped the UI, stood up GCP infrastructure, and built the transcription analytics pipeline.
+
+**Software Engineer — Citi**
+> Started on the **Equities Smart Order Router** team, then moved across retail banking. Brought legacy systems onto modern DevOps pipelines, ran database migration projects, and built Talend ETL jobs.
+
+---
+
 ### Stats
 
 <div align="center">
