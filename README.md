@@ -94,24 +94,6 @@ A ground-up implementation of the **RAFT consensus algorithm** in TypeScript/Nod
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vasu014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Vasu014&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vasu014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu014&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu014&layout=compact&theme=default&hide_border=true&langs_count=8&hide=html,css" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu014&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Vasu014&theme=tokyonight&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Vasu014&theme=default&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=Vasu014&theme=tokyonight&hide_border=true" />
