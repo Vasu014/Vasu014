@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CTO+%40+Entitled+Solutions;Full-Stack+Builder;AI+Agent+Toolsmith;Systems+Thinker&font=Fira+Code&center=true&width=500&height=50&color=70a5fd&vCenter=true&pause=1000&size=24&duration=3000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CTO+%40+Entitled+Solutions;Full-Stack+Builder;AI+Agent+Toolsmith;Systems+Thinker&font=Fira+Code&center=true&width=380&height=45&color=70a5fd&vCenter=true&pause=1000&size=22&duration=3000)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,56 +26,23 @@ I believe the best developer tools are the ones that disappear. Code indexers th
 
 ### Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[loregrep](https://github.com/Vasu014/loregrep)** &nbsp; ![Stars](https://img.shields.io/github/stars/Vasu014/loregrep?style=flat-square&color=70a5fd&label=) &nbsp; `Rust`
+> A code indexing library that parses codebases into fast, searchable in-memory indexes — built for AI coding assistants. Uses tree-sitter for syntax analysis, supports structured queries across functions, structs, call graphs, and dependencies.
 
-**[loregrep](https://github.com/Vasu014/loregrep)** &nbsp; ![Stars](https://img.shields.io/github/stars/Vasu014/loregrep?style=flat-square&color=70a5fd&label=)
+**[flashpods](https://github.com/Vasu014/flashpods)** &nbsp; `Python`
+> Ephemeral VMs for agents. Spin up isolated, disposable compute environments on demand — because AI agents shouldn't run on your machine with root access.
 
-A code indexing library in **Rust** that parses codebases into fast, searchable in-memory indexes — built for AI coding assistants. Uses tree-sitter for syntax analysis, supports structured queries (functions, structs, call graphs, dependencies).
-
-</td>
-<td width="50%" valign="top">
-
-**[flashpods](https://github.com/Vasu014/flashpods)**
-
-Ephemeral VMs for agents. Spin up isolated, disposable compute environments on demand — because AI agents shouldn't run on your machine with root access.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[feature-suggestor-hook](https://github.com/Vasu014/feature-suggestor-hook)**
-
-A Claude Code hook that watches your codebase evolve and automatically surfaces feature opportunities. Scores ideas by readiness and effort, highlights quick wins, and decays stale suggestions over time.
-
-</td>
-<td width="50%" valign="top">
+**[feature-suggestor-hook](https://github.com/Vasu014/feature-suggestor-hook)** &nbsp; `TypeScript`
+> A Claude Code hook that watches your codebase evolve and automatically surfaces feature opportunities. Scores ideas by readiness and effort, highlights quick wins, and decays stale suggestions over time.
 
 **[ACE — Agentic Context Engineering](https://github.com/Vasu014/claude-session-learnings)**
+> A self-improving memory system for Claude Code. Captures coding session insights, preserves context before it's lost, and builds an evolving playbook of strategies and antipatterns.
 
-A self-improving memory system for Claude Code. Captures coding session insights, preserves context before it's lost, and builds an evolving playbook of strategies and antipatterns.
+**[simple-coder](https://github.com/Vasu014/simple-coder)** &nbsp; `Rust`
+> A from-scratch AI coding assistant — interactive terminal interface powered by Claude's API with file editing, project analysis, and multi-turn conversations.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[simple-coder](https://github.com/Vasu014/simple-coder)**
-
-A from-scratch AI coding assistant in **Rust** — interactive terminal interface powered by Claude's API with file editing, project analysis, and multi-turn conversations.
-
-</td>
-<td width="50%" valign="top">
-
-**[raft-node](https://github.com/Vasu014/raft-node)**
-
-A ground-up implementation of the **RAFT consensus algorithm** in TypeScript/Node.js with gRPC transport. Built to deeply understand distributed consensus.
-
-</td>
-</tr>
-</table>
+**[raft-node](https://github.com/Vasu014/raft-node)** &nbsp; `TypeScript`
+> A ground-up implementation of the **RAFT consensus algorithm** in Node.js with gRPC transport. Built to deeply understand distributed consensus.
 
 ---
 
@@ -83,7 +50,7 @@ A ground-up implementation of the **RAFT consensus algorithm** in TypeScript/Nod
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=rust,ts,python,js,react,nodejs,docker,kubernetes,aws,nix,linux,git&theme=dark&perline=12)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=rust,ts,python,js,react,nodejs,docker,kubernetes,aws,nix,linux,git&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
